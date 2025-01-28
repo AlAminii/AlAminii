@@ -8,7 +8,7 @@ Web designer and developer
 
 * 🌍  I'm based in Dhaka
 * ✉️  You can contact me at [alaminbdt50@gmail.com](mailto:alaminbdt50@gmail.com)
-* 🧠  I'm learning daisyui
+* 🧠  I'm learning React
 
 ### Skills
 
